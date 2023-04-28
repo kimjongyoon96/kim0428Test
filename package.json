@@ -1,0 +1,24 @@
+{
+  "name": "kim0428test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimjongyoon96/kim0428Test.git"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimjongyoon96/kim0428Test/issues"
+  },
+  "homepage": "https://github.com/kimjongyoon96/kim0428Test#readme",
+  "dependencies": {
+    "commander": "^10.0.1",
+    "inquirer": "^9.2.0"
+  }
+}
